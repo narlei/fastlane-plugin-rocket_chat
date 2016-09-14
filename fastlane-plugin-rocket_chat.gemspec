@@ -10,7 +10,7 @@ Gem::Specification.new do |s|
   s.author        = %q{Thiago Felix}
   s.email         = %q{thiago@thiagofelix.com}
 
-  s.summary       = %q{}
+  s.summary       = %q{Send message to Rocket.Chat right from fastlane}
   s.homepage      = "https://github.com/thiagofelix/fastlane-plugin-rocket_chat"
   s.license       = "MIT"
 
