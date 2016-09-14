@@ -1,6 +1,8 @@
 # rocket_chat plugin
 
-[![fastlane Plugin Badge](https://rawcdn.githack.com/fastlane/fastlane/master/fastlane/assets/plugin-badge.svg)](https://rubygems.org/gems/fastlane-plugin-rocket_chat)[![Build Status](https://travis-ci.org/thiagofelix/fastlane-plugin-rocket_chat.svg?branch=master)](https://travis-ci.org/thiagofelix/fastlane-plugin-rocket_chat)
+[![fastlane Plugin Badge](https://rawcdn.githack.com/fastlane/fastlane/master/fastlane/assets/plugin-badge.svg)](https://rubygems.org/gems/fastlane-plugin-rocket_chat)
+[![Build Status](https://travis-ci.org/thiagofelix/fastlane-plugin-rocket_chat.svg?branch=master)](https://travis-ci.org/thiagofelix/fastlane-plugin-rocket_chat)
+[![Code Climate](https://codeclimate.com/github/thiagofelix/fastlane-plugin-rocket_chat/badges/gpa.svg)](https://codeclimate.com/github/thiagofelix/fastlane-plugin-rocket_chat)
 
 ## Getting Started
 
